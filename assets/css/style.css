@@ -1415,7 +1415,7 @@ blockquote {
 --------------------------------------------------------------*/
 #hero {
   background: url("../img/TEGUH-KOTA-TASIKMALAYA-P.jpg") repeat scroll center center/cover;
-  height: 79vh;
+  height: 100%;
   width: 100%;
 }
 
